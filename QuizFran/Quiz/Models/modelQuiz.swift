@@ -11,4 +11,5 @@ struct Quiz{
     var pergunta: String
     var opcoes: [String]
     var resposta: Int
+    var image: strin
 }
